@@ -1,0 +1,32 @@
+img{ display: block;
+    
+}
+ul{
+    list-style-type: none;
+    padding:0;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+.red{
+    background-color: red;
+}
+
+table{
+    
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid lightslategray;
+}
+
+th {
+    border: 1px solid lightslategray;
+}
